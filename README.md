@@ -47,10 +47,6 @@ As músicas e efeitos sonoros utilizados no jogo foram obtidos no Pixabay.
 3. Selecione a opção de abrir projeto.
 4. Abra o arquivo principal do projeto.
 
-## Como jogar
-
-Caso exista uma versão exportada, abra o arquivo `index.html` da exportação web ou execute a versão exportada para Windows.
-
 ## Status do projeto
 
 Projeto finalizado para entrega acadêmica.
