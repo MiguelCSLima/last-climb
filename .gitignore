@@ -1,0 +1,19 @@
+# Exportações/builds do GDevelop
+export/
+exports/
+build/
+dist/
+release/
+www/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Cache/editor
+.vscode/
